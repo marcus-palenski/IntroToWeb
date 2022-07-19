@@ -1,3 +1,3 @@
-# IntroToWeb2022
+# IntroToWeb
 
 This is my repo, there are many like it but this one is mine.
