@@ -1,0 +1,12 @@
+header{
+    height:100px;
+}
+
+main{
+    text-align:center;
+    padding: 0px 272px;
+}
+
+ul.faq li div::before{
+    content:'';
+}
